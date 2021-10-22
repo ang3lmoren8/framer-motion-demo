@@ -1,0 +1,23 @@
+.home-container {
+  min-height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+
+.home-text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  z-index: 20;
+}
+
+.bg-container {
+  position: absolute;
+  bottom: -20%;
+  right: -20%;
+}
+
+.bg-container img {
+  min-height: 120vh;
+}
