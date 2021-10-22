@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ang3lmoren8/framer-motion-demo.git/static/css/main.625d59a8.chunk.css",
+    "main.js": "/ang3lmoren8/framer-motion-demo.git/static/js/main.7aee8f33.chunk.js",
+    "main.js.map": "/ang3lmoren8/framer-motion-demo.git/static/js/main.7aee8f33.chunk.js.map",
+    "runtime-main.js": "/ang3lmoren8/framer-motion-demo.git/static/js/runtime-main.fb52d44c.js",
+    "runtime-main.js.map": "/ang3lmoren8/framer-motion-demo.git/static/js/runtime-main.fb52d44c.js.map",
+    "static/css/2.5b6522da.chunk.css": "/ang3lmoren8/framer-motion-demo.git/static/css/2.5b6522da.chunk.css",
+    "static/js/2.bb4e1116.chunk.js": "/ang3lmoren8/framer-motion-demo.git/static/js/2.bb4e1116.chunk.js",
+    "static/js/2.bb4e1116.chunk.js.map": "/ang3lmoren8/framer-motion-demo.git/static/js/2.bb4e1116.chunk.js.map",
+    "static/css/3.9c5b979d.chunk.css": "/ang3lmoren8/framer-motion-demo.git/static/css/3.9c5b979d.chunk.css",
+    "static/js/3.c4ed8289.chunk.js": "/ang3lmoren8/framer-motion-demo.git/static/js/3.c4ed8289.chunk.js",
+    "static/js/3.c4ed8289.chunk.js.map": "/ang3lmoren8/framer-motion-demo.git/static/js/3.c4ed8289.chunk.js.map",
+    "static/js/4.cbec386c.chunk.js": "/ang3lmoren8/framer-motion-demo.git/static/js/4.cbec386c.chunk.js",
+    "static/js/4.cbec386c.chunk.js.map": "/ang3lmoren8/framer-motion-demo.git/static/js/4.cbec386c.chunk.js.map",
+    "static/js/5.1dab25bf.chunk.js": "/ang3lmoren8/framer-motion-demo.git/static/js/5.1dab25bf.chunk.js",
+    "static/js/5.1dab25bf.chunk.js.map": "/ang3lmoren8/framer-motion-demo.git/static/js/5.1dab25bf.chunk.js.map",
+    "index.html": "/ang3lmoren8/framer-motion-demo.git/index.html",
+    "static/css/2.5b6522da.chunk.css.map": "/ang3lmoren8/framer-motion-demo.git/static/css/2.5b6522da.chunk.css.map",
+    "static/css/3.9c5b979d.chunk.css.map": "/ang3lmoren8/framer-motion-demo.git/static/css/3.9c5b979d.chunk.css.map",
+    "static/css/main.625d59a8.chunk.css.map": "/ang3lmoren8/framer-motion-demo.git/static/css/main.625d59a8.chunk.css.map",
+    "static/js/2.bb4e1116.chunk.js.LICENSE.txt": "/ang3lmoren8/framer-motion-demo.git/static/js/2.bb4e1116.chunk.js.LICENSE.txt",
+    "static/js/4.cbec386c.chunk.js.LICENSE.txt": "/ang3lmoren8/framer-motion-demo.git/static/js/4.cbec386c.chunk.js.LICENSE.txt",
+    "static/media/img1.411beac2.svg": "/ang3lmoren8/framer-motion-demo.git/static/media/img1.411beac2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb52d44c.js",
+    "static/css/2.5b6522da.chunk.css",
+    "static/js/2.bb4e1116.chunk.js",
+    "static/css/main.625d59a8.chunk.css",
+    "static/js/main.7aee8f33.chunk.js"
+  ]
+}
