@@ -27,6 +27,11 @@ const textVariants = {
   },
 }
 
+const moveAnimationTransition = {
+  type: 'spring',
+  stiffness: 100,
+}
+
 const imgContainerVariants = {
   initial: {
     opacity: 0,
@@ -41,13 +46,9 @@ const imgContainerVariants = {
       ease: 'easeOut',
       duration: 0.31,
       delay: 1.7,
+      ...moveAnimationTransition,
     },
   },
-}
-
-const moveAnimationTransition = {
-  type: 'spring',
-  stiffness: 100,
 }
 
 const Home = () => {
